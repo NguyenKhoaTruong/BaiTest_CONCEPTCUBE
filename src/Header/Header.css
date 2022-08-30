@@ -1,0 +1,120 @@
+.box {
+    width: 1920px;
+    height: 80px;
+    padding: 24px 120px 27px 97px;
+    background-color: #111111;
+}
+
+.logo {
+    width: 226px;
+    height: 26px;
+    margin: 3px 687px 0 0;
+    object-fit: contain;
+    cursor: pointer;
+    /* background-color: #fff; */
+}
+
+.option {
+    display: flex;
+    float: right;
+}
+
+.Introduction {
+    width: 111px;
+    height: 11px;
+    margin: 10px 76px 8px 687px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.solution {
+    width: 73px;
+    height: 11px;
+    margin: 10px 72px 8px 76px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Rate-plan {
+    width: 78px;
+    height: 11px;
+    margin: 10px 57px 8px 72px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Rectangle-662 {
+    width: 1px;
+    height: 23px;
+    margin: 10px 44px 6px 57px;
+    background-color: #ccc8c6;
+}
+
+.login {
+    width: 44px;
+    height: 11px;
+    margin: 10px 79px 8px 44px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Apply-for-free-use {
+    width: 155px;
+    height: 11px;
+    margin: 10px 0 8px 79px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Text-Style-11 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}

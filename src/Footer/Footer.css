@@ -1,0 +1,233 @@
+.box-footer {
+    width: 1920px;
+    height: 464px;
+    /* margin: 147px 0 0; */
+    padding: 49px 99px 113px;
+    background-color: #fff;
+}
+
+.happened {
+    display: grid;
+}
+
+.what-happened {
+    width: 116px;
+    height: 15px;
+    margin: 0 907px 21px 0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111111;
+}
+
+.more-happened {
+    width: 235px;
+    height: 135px;
+    margin: 29px 786px 60px 2px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111111;
+}
+
+.Contact {
+    display: flex;
+}
+
+.About-Us {
+    display: grid;
+}
+
+.about-us {
+    width: 63px;
+    height: 12px;
+    margin: 2px 120px 22px 184px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111111;
+}
+
+.more-about-us {
+    width: 82px;
+    height: 76px;
+    margin: 19px 101px 129px 184px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.My-Order {
+    display: grid;
+}
+
+.my-order {
+    width: 65px;
+    height: 15px;
+    margin: 2px 160px 19px 101px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111111;
+}
+
+.more-my-order {
+    width: 128px;
+    height: 138px;
+    margin: 19px 96px 67px 102px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.My-Account {
+    display: grid;
+}
+
+.my-account {
+    width: 85px;
+    height: 13px;
+    margin: 4px 90px 19px 96px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111111;
+}
+
+.more-my-account {
+    width: 82px;
+    height: 107px;
+    margin: 19px 92px 98px 97px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.Help {
+    display: grid;
+}
+
+.help {
+    width: 32px;
+    height: 15px;
+    margin: 2px 35px 19px 0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111111;
+}
+
+.more-help {
+    width: 91px;
+    height: 138px;
+    margin: 19px 1px 67px 0;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.what-happened-corp-l {
+    width: 839px;
+    height: 38px;
+    margin: 22px 184px 0 0;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--greyish);
+}
+
+.what-happened-corp-l- .text-style-1 {
+    font-family: AppleGothic;
+    font-weight: normal;
+}
+
+.what-happened-corp-l- .Text-Style-27 {
+    font-weight: 500;
+}
+
+.Contact-With-Logo {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+
+.Shape-3437 {
+    width: 23px;
+    height: 21px;
+    background-color: var(--kelley-green);
+    margin-left: 10px;
+}
+
+.Shape-3434-copy {
+    width: 23px;
+    height: 23px;
+    background-color: var(--cerulean);
+    margin-left: 10px;
+}
+
+.Shape-3436 {
+    width: 21px;
+    height: 22px;
+    background-color: var(--bright-orange);
+    margin-left: 10px;
+}

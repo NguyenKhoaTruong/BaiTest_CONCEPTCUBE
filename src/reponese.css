@@ -1,0 +1,511 @@
+@media only screen and (max-width: 46.1875em) {
+    .box {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .option {
+        display: none;
+    }
+
+    .mainBanner {
+        max-width: 100%;
+        height: 100%;
+    }
+
+    .Layer-563 {
+        max-width: 100%;
+        background-size: cover;
+        background-repeat: round;
+    }
+
+    .Info-what-happened {
+        display: grid;
+    }
+
+    .What-Happened {
+        width: 562px;
+        height: 37px;
+        margin: 115px 0px 130px 65px;
+        font-family: inherit !important;
+        font-size: 50px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: 5px;
+        text-align: left;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
+    .How-to-create-mobile-optimized-videos-in-minutes-Not-a-designe {
+        width: 500px;
+        height: 125px;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.75;
+        letter-spacing: normal;
+        text-align: left;
+        color: #fff;
+        margin-left: 85px;
+        margin-top: -70px;
+        text-align: center !important;
+    }
+
+    .infomation-product {
+
+        padding: 55px 0px 0px 190px;
+        object-fit: contain;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .all-product {
+        display: grid;
+    }
+
+    .img-product {
+        width: 300px;
+        height: 300px;
+        object-fit: contain;
+    }
+
+    .heart-icon {
+        float: right;
+        position: absolute;
+        margin-left: 180px;
+    }
+
+    .-copy {
+        margin-left: 150px;
+        float: unset;
+    }
+
+    .Rectangle-702 {
+        width: 205px;
+        height: 60px px;
+        margin: 98px 21px 143px -100px;
+        padding: 15px 36px 17px 42px;
+        border: solid 3px var(--dark-maroon);
+        background-color: #fff;
+        text-transform: uppercase;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .box-res {
+        display: grid;
+    }
+
+    .happened {
+        display: grid;
+        margin-bottom: 30px;
+        margin-left: 130px;
+    }
+
+    .what-happened {
+        width: 116px;
+        height: 15px;
+        margin: 10px 908px 21px 55px;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2.14;
+        letter-spacing: normal;
+        text-align: center;
+        color: #111111;
+    }
+
+    .Contact {
+        display: grid;
+    }
+
+    .About-Us {
+        display: grid;
+        margin-left: 20px;
+    }
+
+    .My-Order {
+        display: grid;
+        margin-left: 100px;
+    }
+
+    .My-Account {
+        display: grid;
+        margin-left: 100px;
+    }
+
+    .Help {
+        display: grid;
+        margin-left: 200px;
+    }
+
+    .box-what-happende {
+        display: none;
+    }
+
+    .Bes_bg {
+        max-width: 100%;
+        height: 1834px;
+        object-fit: contain;
+        padding: 0;
+    }
+
+    .Title-best-product {
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        padding-top: 50px;
+        text-align: left;
+    }
+
+    .Best-Product {
+        width: 463px;
+        height: 37px;
+        margin: 0px 115px 48px;
+        font-family: inherit !important;
+        font-size: 50px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: 5px;
+        text-align: center;
+        color: var(--bright-orange);
+    }
+
+    .Your-Info-Product {
+        text-align: justify;
+        margin: 10px;
+    }
+
+    .Info-product {
+        width: 482px;
+        height: 52px;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.6;
+        letter-spacing: normal;
+        text-align: center;
+        color: var(--bright-orange);
+    }
+
+    .top-product {
+        height: 570px;
+        display: grid;
+        margin-top: 70px;
+    }
+
+    .top-one {
+        margin-left: 70px;
+        margin-bottom: 55px;
+    }
+
+    .number-one {
+        width: 92px;
+        height: 99px;
+        object-fit: contain;
+        position: absolute;
+        margin-top: -42px;
+        margin-left: -3px;
+    }
+
+    .img-number-one {
+        width: 523px;
+        height: 400px;
+        object-fit: contain;
+    }
+
+    .let-go-it-number-one {
+        width: 368px;
+        height: 77px;
+        border: solid 3px var(--dark-maroon);
+        background-color: #fff;
+        display: flex;
+        margin-left: 80px;
+        margin-top: -45px;
+        position: absolute;
+        cursor: pointer;
+    }
+
+    .top-two {
+        margin-left: 70px;
+        margin-bottom: 55px;
+    }
+
+    .number-two {
+        width: 92px;
+        height: 92px;
+        object-fit: contain;
+        position: absolute;
+        margin-top: -42px;
+        margin-left: -3px;
+    }
+
+    .img-number-two {
+        width: 523px;
+        height: 400px;
+        object-fit: contain;
+    }
+
+    .top-three {
+        margin-left: 70px;
+
+    }
+
+    .img-number-three {
+        width: 523px;
+        height: 400px;
+        object-fit: contain;
+    }
+
+    .happened-issue {
+        max-width: 100%;
+        height: auto;
+        padding: 43px 0 57px;
+        opacity: 0.85;
+        mix-blend-mode: multiply;
+        background-color: var(--goldenrod);
+    }
+
+    .Happeneds-issue {
+        margin-right: 0;
+    }
+
+    .Happeneds-issues {
+        text-align: left;
+        margin-top: 60px;
+        margin-left: -242px;
+    }
+
+    .more-happened-issues {
+        text-align: center;
+        margin: 25px;
+        width: 615px;
+        padding: 0;
+    }
+
+    .See-more-issues {
+        justify-content: flex-start;
+    }
+
+    .more-description-issues {
+        display: grid;
+        margin-left: 145px;
+    }
+
+    .See-more-box {
+        width: 205px;
+        height: 60px;
+        margin: 55px 88px 60px 240px;
+        padding: 15px 42px;
+        border: solid 3px var(--dark-maroon);
+        background-color: var(--sun-yellow);
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .Rectangle-621 {
+        display: none;
+    }
+
+    .happpend-left {
+        display: none;
+    }
+
+    .happend-right {
+        display: none;
+    }
+
+    .VideoObject_01 {
+        display: none;
+    }
+
+    .VideoObject_02 {
+        display: none;
+    }
+
+    .what-happen-title {
+        text-transform: uppercase;
+        text-align: left;
+        margin-left: 55px;
+        margin-top: 60px;
+    }
+
+    .more-info-happened {
+        text-align: left;
+        width: 620px;
+        padding: 0;
+        margin-left: 50px;
+        margin-top: 25px;
+    }
+
+    .see-more-what-happend {
+        width: 200px;
+        height: 60px;
+        margin: 25px 18px 72px 50px;
+        padding: 15px 37px;
+        border: solid 3px var(--dark-maroon);
+        background-color: #fff;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    .what-happen {
+        max-width: 100%;
+        height: 900px;
+        background-color: #fff;
+    }
+
+    .NewsObject_02 {
+        display: none;
+    }
+
+    .NewsObject_003 {
+        display: none;
+    }
+
+    .video {
+        width: 580px;
+        height: 500px;
+        object-fit: contain;
+        position: absolute;
+        margin-left: 50px;
+    }
+
+    .box-story {
+        display: grid;
+    }
+
+    .story-left {
+        display: none;
+    }
+
+    .story-right {
+        display: none;
+    }
+
+    .Brand-Storys {
+        text-align: left;
+    }
+
+    .Brand-Story {
+        width: 387px;
+        height: 34px;
+        margin: 88px 0 0 160px;
+        font-family: inherit !important;
+        font-size: 45px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 4.5px;
+        text-align: left;
+        color: var(--sun-yellow);
+        text-transform: uppercase;
+    }
+
+    .more-brand-storys {
+        margin: 25px;
+        width: 600px;
+        padding-left: 20px;
+        padding-right: 0;
+    }
+
+    .window {
+
+        width: 636px;
+        height: 560px;
+        margin-top: -15px;
+        position: absolute;
+        object-fit: unset;
+        margin-left: -280px;
+
+    }
+
+    .Rectangle-see-more-brand-story {
+        width: 200px;
+        height: 60px;
+        padding: 15px 37px;
+        border: solid 3px var(--dark-maroon);
+        background-color: #fff;
+        position: relative;
+        margin-top: 280px;
+        border-radius: 5px;
+        cursor: pointer;
+        float: left;
+        margin-left: 390px;
+        margin-right: 0;
+
+    }
+
+    .What-Happeneds-Brand-story {
+        width: 468px;
+        height: 20px;
+        margin: 0 62px 39px 0;
+        font-family: inherit !important;
+        font-size: 16px;
+        font-weight: 800;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2.4;
+        letter-spacing: normal;
+        text-align: left;
+        color: var(--black-three);
+        position: relative;
+        float: right;
+        margin-top: 70px;
+        text-transform: uppercase;
+        float: left;
+        margin-left: 351px;
+    }
+
+    .brand-story {
+        max-width: 100%;
+    }
+
+    .more-infor-brand-story {
+        width: 284px;
+        height: 200px;
+        margin: 39px 0 47px 1px;
+        font-family: NotoSansCJKkr;
+        font-size: 14px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: justify !important;
+        color: var(--black-three);
+        float: right;
+        position: relative;
+        margin-top: 140px;
+        margin-right: -525px;
+        float: left;
+        margin-left: -533px;
+    }
+
+    .box-footer {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (min-width: 46.25em) and (max-width:63.9375em) {
+    .mainBanner {
+        max-width: 100%;
+        height: 100%;
+    }
+
+    .Layer-563 {
+        max-width: 100%;
+        height: auto;
+    }
+}

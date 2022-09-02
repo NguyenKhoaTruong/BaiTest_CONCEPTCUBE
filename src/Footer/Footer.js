@@ -5,7 +5,7 @@ import snsicon3 from './snsicon-03.png';
 function Footer() {
     return (
         <div className="box-footer">
-            <div className="row">
+            <div className="row box-res">
                 <div className="col-sm-4">
                     <div className='happened'>
                         <span className="what-happened Text-Style-15">
@@ -70,7 +70,7 @@ function Footer() {
                     </div>
                 </div>
             </div>
-            <div className='row'>
+            <div className='row box-what-happende'>
                 <div className="col-6">
                     <span className="what-happened-corp-l">
                         © 2020-2021 what happened corp  l  (주) 왓헤픈<span className="text-style-1">｜</span>

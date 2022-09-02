@@ -68,6 +68,7 @@ import videoobject10 from './video.png';
 import window from './window.png';
 import newobject1 from './news-object-02.png';
 import newobject2 from './xucasc.png';
+import './reponese.css'
 function App() {
   return (
     <div className="App">
@@ -582,13 +583,13 @@ function App() {
         </div>
       </div>
       <div className='brand-story'>
-        <div className="row">
-          <div className="col-2">
+        <div className="row box-story">
+          <div className="col-2 story-left">
             <img src={object1} className='Object_01' />
             <img src={object6} className='Object_06' />
             <img src={object7} className='Object_07' />
           </div>
-          <div className="col-8">
+          <div className="col-8 story-center">
             <div className='Brand-Storys'>
               <span className="Brand-Story Text-Style-3">
                 Brand Story
@@ -617,7 +618,7 @@ function App() {
               </span>
             </div>
           </div>
-          <div className="col-2">
+          <div className="col-2 story-right">
             {/* <div className="Rectangle-629">
               <img src={object2} className='Object_02' />
             </div> */}
@@ -635,7 +636,7 @@ function App() {
           <span className="Happeneds-issue Text-Style-23">
             Happened’s issue
           </span>
-          <img src={newobject1} className='NewsObject_03' />
+          <img src={newobject1} className='NewsObject_003' />
           <img src={newobject2} className='NewsObject_02' />
         </div>
         <div className='more-happened-issues'>
@@ -693,12 +694,12 @@ function App() {
         <div className="Rectangle-621">
           <img src={imghappen1} className='VideoObject_05' />
         </div>
-        <div className="row">
-          <div className="col-2">
+        <div className="row box-what-happend">
+          <div className="col-2 happpend-left">
             <img src={videoobject4} className='VideoObject_04' />
             <img src={videoobject3} className='VideoObject_03 ' />
           </div>
-          <div className="col-8">
+          <div className="col-8 happend-center">
             <div className='what-happen-title'>
               <span className="what-happened-info">
                 what happened
@@ -719,7 +720,7 @@ function App() {
             <img src={videoobject1} className='VideoObject_01' />
             <img src={videoobject2} className='VideoObject_02' />
           </div>
-          <div className="col-2">
+          <div className="col-2 happend-right">
             <div className='what-happened-right'>
               <img src={videoobject6} className='VideoObject_07' />
             </div>
